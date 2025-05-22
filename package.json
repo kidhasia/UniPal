@@ -1,0 +1,12 @@
+{
+  "name": "unipal",
+  "version": "1.0.0",
+  "description": "A full-stack MERN web application designed to help university students manage their academic and personal life in one centralized dashboard. UniZen combines task tracking, GPA planning, habit and mood logging, AI-powered study plans, and more—all wrapped in a clean, modern UI built with **React + Vite + Tailwind CSS**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
